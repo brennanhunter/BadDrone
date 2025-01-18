@@ -1,0 +1,39 @@
+# Ignore temporary files and cache
+Saved/
+Intermediate/
+DerivedDataCache/
+
+# Ignore build files
+*.sln
+*.suo
+*.user
+*.log
+*.tmp
+*.pdb
+*.obj
+*.o
+*.bak
+*.dll
+*.exe
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Ignore Visual Studio Code settings
+.vscode/
+.vs/
+
+# Ignore backups and auto-saves
+Backup/
+Autosaves/
+
+# Ignore Unreal Engine binary files
+*.opensdf
+*.opendb
+*.db-journal
+*.ldb
+*.idb
+
+
