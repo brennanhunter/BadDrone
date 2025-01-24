@@ -7,8 +7,6 @@
 			"files": [
 				"C:/Users/brenn/OneDrive/Desktop/UnrealProjects/BadDrone/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/brenn/OneDrive/Desktop/UnrealProjects/BadDrone/Content/Maps/BotLevel.umap",
-				"C:/Users/brenn/OneDrive/Desktop/UnrealProjects/BadDrone/Content/Assets/Drone/M_Drone.uasset",
-				"C:/Users/brenn/OneDrive/Desktop/UnrealProjects/BadDrone/Content/Assets/Drone/M_DroneGlass.uasset",
 				"C:/Users/brenn/OneDrive/Desktop/UnrealProjects/BadDrone/Content/Assets/Drone/SM_Drone.uasset",
 				"C:/Users/brenn/OneDrive/Desktop/UnrealProjects/BadDrone/Content/Assets/Drone/Materials/M_Drone.uasset",
 				"C:/Users/brenn/OneDrive/Desktop/UnrealProjects/BadDrone/Content/Assets/Drone/Materials/M_DroneGlass.uasset",
@@ -16,7 +14,14 @@
 				"C:/Users/brenn/OneDrive/Desktop/UnrealProjects/BadDrone/Content/Assets/Drone/Materials/T_Drone_EM.uasset",
 				"C:/Users/brenn/OneDrive/Desktop/UnrealProjects/BadDrone/Content/Assets/Drone/Materials/T_Drone_NRM.uasset",
 				"C:/Users/brenn/OneDrive/Desktop/UnrealProjects/BadDrone/Content/Assets/Drone/Materials/T_Drone_ORM.uasset",
-				"C:/Users/brenn/OneDrive/Desktop/UnrealProjects/BadDrone/Content/Blueprints/Drone/BP_Bot.uasset"
+				"C:/Users/brenn/OneDrive/Desktop/UnrealProjects/BadDrone/Content/Blueprints/Drone/BP_Bot.uasset",
+				"C:/Users/brenn/OneDrive/Desktop/UnrealProjects/BadDrone/Content/Assets/BlasterBeam/SM_BlasterBeam.uasset",
+				"C:/Users/brenn/OneDrive/Desktop/UnrealProjects/BadDrone/Content/Assets/BlasterBeam/Materials/M_BlasterBeam.uasset",
+				"C:/Users/brenn/OneDrive/Desktop/UnrealProjects/BadDrone/Content/Blueprints/BlasterBeam/BP_BlasterBeam.uasset",
+				"C:/Users/brenn/OneDrive/Desktop/UnrealProjects/BadDrone/Content/Assets/FX/NS_BeamBurst.uasset",
+				"C:/Users/brenn/OneDrive/Desktop/UnrealProjects/BadDrone/Content/Assets/BlasterBeam/Cylinder_78EDA930.uasset",
+				"C:/Users/brenn/OneDrive/Desktop/UnrealProjects/BadDrone/Content/Assets/Drone/M_Drone.uasset",
+				"C:/Users/brenn/OneDrive/Desktop/UnrealProjects/BadDrone/Content/Assets/Drone/M_DroneGlass.uasset"
 			]
 		}
 	]
